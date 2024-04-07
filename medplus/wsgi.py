@@ -16,4 +16,4 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'medplus.settings')
 application = get_wsgi_application()
 
 # Added manually for deployment (on Vercel)
-app = application   
+# app = application   
