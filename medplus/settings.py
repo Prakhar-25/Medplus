@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-@k+eh(%mg1@34m=c-58@#5gdy-+@353b2ea4lzrywf&q%@fpmr
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['medplus.onrender.com','localhost']  # leave empty unless deploying
+ALLOWED_HOSTS = ['https://medplus-8qhs.onrender.com','localhost']  # leave empty unless deploying
 
 
 # Application definition
