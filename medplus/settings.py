@@ -24,9 +24,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-@k+eh(%mg1@34m=c-58@#5gdy-+@353b2ea4lzrywf&q%@fpmr'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
-ALLOWED_HOSTS = []  # leave empty unless deploying
+ALLOWED_HOSTS = ['medplus.onrender.com','localhost']  # leave empty unless deploying
 
 
 # Application definition
