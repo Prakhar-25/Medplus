@@ -1,0 +1,1 @@
+web: gunicorn medplus.wsgi --log-file -
